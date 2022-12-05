@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 Bay Area, SF<br>💼 I'm currently open for new job opportunity<br>🚀 Frontend: React/TS/Vue/web3
+📍 Bay Area, SF<br>🚀 Frontend: React/TS/Vue/web3
 
 
 ## 🌐 Socials:
